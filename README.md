@@ -34,6 +34,15 @@ Este dataset contiene los  features correspondiente a una muestra aleatoria de m
 
 El diccionario de variables está en metadata.csv 
 
+significados generales
+
+cause17_count_fsh1_avg 
+fs: días de fin de semana
+s: días de semana
+h1: rango horario 00:00-06:00
+h2: rango horario 06:01-12:00
+h3: rango horario 12:01-18:00
+h4: rango horario 18:01-23:59
 
 ## Evaluación :white_check_mark:
 Se deberá entregar el  listado clientes de la base cater_validaciones.csv con un valor de probabilidad/score que represente a la chance de realizar un CATER.
