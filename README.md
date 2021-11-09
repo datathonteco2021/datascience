@@ -22,14 +22,9 @@ Estos archivos pueden ser descargados desde [aquí]( https://drive.google.com/dr
 Target=1 se considera a los clientes que hayan realizado un CATER a los dos meses posteriores subsiguientes desde el momento de sacar la foto de la información, por ejemplo para la foto de informacion del mes de agosto 2020 se considera 1 al cliente que realizó un cater durante Octubre 2020.
 
 La distribución del target para los distintos periodos es
-mes	Target 0	Target 1
-202008	97,32%	2,68%
-202009	94,73%	5,27%
-202010	95,23%	4,77%
-202011	93,01%	6,99%
-202012	94,01%	5,99%
-202101	95,68%	4,32%
-General	95,05%	4,95%
+
+![image](https://user-images.githubusercontent.com/59797580/140841918-f4bdd249-481d-4906-b8b0-17e0dfdb20c2.png)
+
 
 ##### ** cater_muestra.csv**
 Este dataset contiene los  features correspondiente a una muestra aleatoria de más de 170 mil clientes y su correspondiente target. 
