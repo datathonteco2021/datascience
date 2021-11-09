@@ -1,6 +1,6 @@
 # datascience
 
-# 📱: Recomendador 📱:
+# 📱: CATER 📱:
 
 ## El desafío: desarrollar un modelo que prediga que clientes van a cambiar su dispositivo móvil (terminal) el área comercial le dice CATER (CAmbio TERminal).
 Partiendo de las información de un conjunto de usuarios de Personal correspondientes 5 meses del 2020 y   un mes 2021 que no contiene la información del target, el desafío consiste en predecir **que clientes son mas propensos a cambiar su terminal**.
